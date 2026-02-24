@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ![GDB](https://img.shields.io/badge/-GDB-cc0000?style=flat&logo=gnu)
 
 ----------
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thegurg)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegurg"/>
