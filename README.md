@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 ![GDB](https://img.shields.io/badge/-GDB-cc0000?style=flat&logo=gnu)
 
 ----------
-![Night's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegurg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegurg"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thegurg&theme=tokyonight&layout=compact&langs_count=8&hide=html,css&hide_border=true)
