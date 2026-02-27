@@ -1,5 +1,7 @@
 # Hi i am Gurg
 
+I'm a student in the field of cybersecurity, I'm studying everything that is possible for example, cloud, reverse engineering, cross-platform development, frontend, I participate in ctf, the main thing is not to stop in becoming the best version of myself
+
 -----------
 <!--
 **thegurg/thegurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
