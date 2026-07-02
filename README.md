@@ -3,26 +3,12 @@
 I'm a student in the field of cybersecurity, I'm studying everything that is possible for example, cloud, reverse engineering, cross-platform development, frontend, I participate in ctf, the main thing is not to stop in becoming the best version of myself
 
 -----------
-<!--
-**thegurg/thegurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![lain3](https://github.com/user-attachments/assets/7d5cf814-7816-4129-ab9e-06c105d86173)
 
 
 <h3 align="center">DevSecOps</h3>
-
 
 
 ----------
@@ -36,13 +22,20 @@ Here are some ideas to get you started:
 # Skills:
 
 ##  Operation Systems
-[![My Skills](https://skillicons.dev/icons?i=arch,nix,debian&theme=dark)](https://skillicons.dev)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=archlinux,voidlinux,nixos,debian,tails&theme=dark)
 
 ## Programming
-[![My Skills](https://skillicons.dev/icons?i=bash,dart,flutter,lua&theme=dark)](https://skillicons.dev)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=lua,gnubash,dart,flutter&theme=dark)
 
 ## DevOps
-[![My Skills](https://skillicons.dev/icons?i=githubactions,linux,supabase,docker&theme=dark)](https://skillicons.dev)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=auth0,docker,supabase,pocketbase,coolify,githubactions&theme=dark)
+
+## CyberSecurity
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=hackthebox,tryhackme,hackerone,burpsuite,zap,wireshark,owasp,hashcat&theme=dark)
+
+## Tools
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=vscodium,androidstudio,zedindustries,opencode,neovim,arduino&theme=dark)
+
 
 
 # 📊 Stats:
