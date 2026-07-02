@@ -15,8 +15,8 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 
 
 ## 🕵🏻‍♂️ For Stalkers:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.qodir._) 
-[![Telegram Badge](https://img.shields.io/badge/-ARES-cyan?style=flat&logo=Telegram&logoColor=black)](https://t.me/gwyn_astoro)
+[![Instagram](https://simpleskill.icons.workers.dev/svg?i=instagram&theme=dark)](https://instagram.com/_.qodir._)
+[![Telegram](https://simpleskill.icons.workers.dev/svg?i=telegram&theme=dark)](https://t.me/gwyn_astoro)
 
 
 # Skills:
