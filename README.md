@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![lain3](https://github.com/user-attachments/assets/7d5cf814-7816-4129-ab9e-06c105d86173)
 
 
-<h3 align="center">Fullstack & CyberSecurity</h3>
+<h3 align="center">DevSecOps</h3>
 
 
 
