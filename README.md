@@ -38,19 +38,14 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 
 
 
-# 📊 Stats:
+# Stats:
 
-
-### ⚙️ Ares stats
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=thegurg&theme=neon&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thegurg&layout=compact&theme=neon" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thegurg&ring=7F7F7F&background=000000&border=000000&fire=FFFFFF&currStreakNum=B7B7B7&sideNums=B7B7B7&currStreakLabel=EBEBEB&stroke=6D6D6D&sideLabels=EBEBEB" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
-
+  
