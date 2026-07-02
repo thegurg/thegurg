@@ -14,7 +14,7 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 ----------
 
 
-## 🕵🏻‍♂️ For Stalkers:
+## For Stalkers:
 [![Instagram](https://simpleskill.icons.workers.dev/svg?i=instagram&theme=dark)](https://instagram.com/_.qodir._)
 [![Telegram](https://simpleskill.icons.workers.dev/svg?i=telegram&theme=dark)](https://t.me/gwyn_astoro)
 
