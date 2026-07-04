@@ -10,7 +10,6 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 
 <h3 align="center">DevSecOps</h3>
 
-[![My GitFut card](https://gitfut.com/thegurg.png)](https://gitfut.com/thegurg)
 ----------
 
 
@@ -40,12 +39,19 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 
 # Stats:
 
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imhalid&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+51%25%2C+%23000000ff+0%25%2C+%231d1d1dff+100%25%29&color=%23FFFFFFFF&hide=stars">
 
 <table>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thegurg&ring=7F7F7F&background=000000&border=000000&fire=FFFFFF&currStreakNum=B7B7B7&sideNums=B7B7B7&currStreakLabel=EBEBEB&stroke=6D6D6D&sideLabels=EBEBEB" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thegurg&ring=7F7F7F&background=000000&border=000000&fire=FFFFFF&currStreakNum=B7B7B7&sideNums=B7B7B7&currStreakLabel=EBEBEB&stroke=6D6D6D&sideLabels=EBEBEB" alt="GitHub Streak" />
     </td>
+   
   </tr>
 </table>
+
+
+<!--[![My GitFut card](https://gitfut.com/thegurg.png)](https://gitfut.com/thegurg)
+
+<!--Replace <username> with your own GitHub username.-->
   
