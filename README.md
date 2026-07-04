@@ -10,7 +10,7 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 
 <h3 align="center">DevSecOps</h3>
 
-
+[![My GitFut card](https://gitfut.com/thegurg.png)](https://gitfut.com/thegurg)
 ----------
 
 
