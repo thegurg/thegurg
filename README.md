@@ -5,7 +5,7 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 -----------
 
 
-![lain3](https://github.com/user-attachments/assets/7d5cf814-7816-4129-ab9e-06c105d86173)
+<img width="1920" height="1080" alt="10  One Dark" src="https://github.com/user-attachments/assets/e38bbc1a-498d-4665-846b-b1b99e00b156" />
 
 
 <h3 align="center">DevSecOps</h3>
