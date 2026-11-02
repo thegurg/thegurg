@@ -14,6 +14,7 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 
 
 ## For Stalkers:
+[![My Skills](https://skillicons.dev/icons?i=instagram,gitlab,github)](https://skillicons.dev)
 
 
 
@@ -23,4 +24,8 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 [![My Skills](https://skillicons.dev/icons?i=dart,lua,go,zig,bash,flutter,nix)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vim,vscodium,terraform,docker,supabase,mysql,sqlite,qt,obsidian,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,vscodium,terraform,docker,supabase,mysql,sqlite,qt,obsidian,neovim,kubernetes,git,arduino)](https://skillicons.dev)
+
+## Operation Systems/Distor
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,debian,nix)](https://skillicons.dev)
+
