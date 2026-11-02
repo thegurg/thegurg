@@ -29,3 +29,7 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 ## Operation Systems/Distor
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,debian,nix)](https://skillicons.dev)
 
+# Stats
+![GitHub Stats Card](https://ghstats.dev/api/card?username=thegurg&theme=ayu&border_radius=0&size=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=thegurg&theme=ayu&layout=donut)
+
