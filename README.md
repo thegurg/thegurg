@@ -29,6 +29,9 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 ## Operation Systems/Distor
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,debian,nix)](https://skillicons.dev)
 
+## CyberSecurity
+[![Icons](https://readme-icons.com/api/icons?i=burpsuite%2Cwireshark%2Cwireguard%2Chackthebox%2Ctryhackme%2Cqemu%2Cowasp)](https://readme-icons.com)
+
 # Stats
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=thegurg&theme=ayu&border_radius=0&size=compact)
 ![Top Languages](https://ghstats.dev/api/langs?username=thegurg&theme=ayu&layout=donut)
