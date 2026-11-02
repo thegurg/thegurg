@@ -14,30 +14,13 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 
 
 ## For Stalkers:
-[![Instagram](https://simpleskill.icons.workers.dev/svg?i=instagram&theme=dark)](https://instagram.com/_.qodir._)
-[![Telegram](https://simpleskill.icons.workers.dev/svg?i=telegram&theme=dark)](https://t.me/gwyn_astoro)
+
 
 
 # Skills:
 
-##  Operation Systems
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=archlinux,voidlinux,nixos,debian,tails&theme=dark)
-
-## Programming
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=lua,gnubash,dart,flutter&theme=dark)
-
-## DevOps
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=auth0,docker,supabase,pocketbase,coolify,githubactions&theme=dark)
-
-## CyberSecurity
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=hackthebox,tryhackme,hackerone,burpsuite,zap,wireshark,owasp,hashcat&theme=dark)
+## Programing Language
+[![My Skills](https://skillicons.dev/icons?i=dart,lua,go,zig,bash,flutter,nix)](https://skillicons.dev)
 
 ## Tools
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=vscodium,androidstudio,zedindustries,opencode,neovim,arduino&theme=dark)
-
-
-
-# Stats:
-
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imhalid&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+51%25%2C+%23000000ff+0%25%2C+%231d1d1dff+100%25%29&color=%23FFFFFFFF&hide=stars">
-
+[![My Skills](https://skillicons.dev/icons?i=vim,vscodium,terraform,docker,supabase,mysql,sqlite,qt,obsidian,neovim)](https://skillicons.dev)
