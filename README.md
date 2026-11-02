@@ -24,10 +24,13 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 [![My Skills](https://skillicons.dev/icons?i=dart,lua,go,zig,bash,flutter,nix)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vim,vscodium,terraform,docker,supabase,mysql,sqlite,qt,obsidian,neovim,kubernetes,git,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,vscodium,qt,obsidian,neovim,git,arduino)](https://skillicons.dev)
+
+## Devops
+[![Icons](https://readme-icons.com/api/icons?i=docker%2Cterraform%2Ckubernetes%2Csupabase%2Cpocketbase%2Cmysql%2Ccoolify%2Cgit)](https://readme-icons.com)
 
 ## Operation Systems/Distor
-[![My Skills](https://skillicons.dev/icons?i=arch,windows,debian,nix)](https://skillicons.dev)
+[![Icons](https://readme-icons.com/api/icons?i=archlinux%2Cnixos%2Cgentoo%2Cdebian%2Cfreebsd%2Copenbsd)](https://readme-icons.com)
 
 ## CyberSecurity
 [![Icons](https://readme-icons.com/api/icons?i=burpsuite%2Cwireshark%2Cwireguard%2Chackthebox%2Ctryhackme%2Cqemu%2Cowasp)](https://readme-icons.com)
