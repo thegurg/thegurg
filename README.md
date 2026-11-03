@@ -14,17 +14,16 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 
 
 ## For Stalkers:
-[![My Skills](https://skillicons.dev/icons?i=instagram,gitlab,github)](https://skillicons.dev)
-
+[![Icons](https://readme-icons.com/api/icons?i=instagram%2Ctelegram%2Cgithub%2Ccodeberg)](https://readme-icons.com)
 
 
 # Skills:
 
 ## Programing Language
-[![My Skills](https://skillicons.dev/icons?i=dart,lua,go,zig,bash,flutter,nix)](https://skillicons.dev)
+[![Icons](https://readme-icons.com/api/icons?i=flutter%2Cdart%2Cgo%2Czig%2Clua%2Cgnubash%2Cnixos)](https://readme-icons.com)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vim,vscodium,qt,obsidian,neovim,git,arduino)](https://skillicons.dev)
+[![Icons](https://readme-icons.com/api/icons?i=neovim%2Cvim%2Carduino%2Cvscodium%2Cgit%2Cobsidian%2Cqt%2Cgtk)](https://readme-icons.com)
 
 ## Devops
 [![Icons](https://readme-icons.com/api/icons?i=docker%2Cterraform%2Ckubernetes%2Csupabase%2Cpocketbase%2Cmysql%2Ccoolify%2Cgit)](https://readme-icons.com)
@@ -33,7 +32,10 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 [![Icons](https://readme-icons.com/api/icons?i=archlinux%2Cnixos%2Cgentoo%2Cdebian%2Cfreebsd%2Copenbsd)](https://readme-icons.com)
 
 ## CyberSecurity
-[![Icons](https://readme-icons.com/api/icons?i=burpsuite%2Cwireshark%2Cwireguard%2Chackthebox%2Ctryhackme%2Cqemu%2Cowasp)](https://readme-icons.com)
+[![Icons](https://readme-icons.com/api/icons?i=burpsuite%2Cwireshark%2Cwireguard%2Chackthebox%2Ctryhackme%2Cqemu%2Cowasp%2Cvirustotal%2Crootme)](https://readme-icons.com)
+
+## Window Manager
+[![Icons](https://readme-icons.com/api/icons?i=bspwm%2Chyprland%2Cniri%2Cdwm%2Csway%2Ci3)](https://readme-icons.com)
 
 # Stats
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=thegurg&theme=ayu&border_radius=0&size=compact)
