@@ -20,7 +20,7 @@ I'm a student in the field of cybersecurity, I'm studying everything that is pos
 # Skills:
 
 ## Programing Language
-[![Icons](https://readme-icons.com/api/icons?i=flutter%2Cdart%2Cgo%2Czig%2Clua%2Cgnubash%2Cnixos)](https://readme-icons.com)
+[![Icons](https://readme-icons.com/api/icons?i=rust%2Cflutter%2Cdart%2Cgo%2Czig%2Clua%2Cgnubash%2Cnixos)](https://readme-icons.com)
 
 ## Tools
 [![Icons](https://readme-icons.com/api/icons?i=neovim%2Cvim%2Carduino%2Cvscodium%2Cgit%2Cobsidian%2Cqt%2Cgtk)](https://readme-icons.com)
